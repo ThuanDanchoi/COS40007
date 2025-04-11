@@ -1,0 +1,21 @@
+Image,True Class,Predicted Class,Confidence,Correct
+001_0fwtaowy.t1o.jpg,new_no_rust,new_no_rust,0.2734,Yes
+001_kwmsqgk2.yfv.jpg,new_no_rust,new_no_rust,0.4319,Yes
+003_zomak3wq.43c.jpg,new_no_rust,new_no_rust,0.2593,Yes
+010_tbhbp3p1.dre.jpg,new_no_rust,new_no_rust,0.3450,Yes
+012_ghcvcltr.l2e.jpg,new_no_rust,new_no_rust,0.4587,Yes
+014_wxu245ku.udp.jpg,new_no_rust,new_no_rust,0.4052,Yes
+075_22gmyh5w.jli.jpg,new_no_rust,new_no_rust,0.4310,Yes
+AZ-1835_2.JPG,new_no_rust,new_no_rust,0.3748,Yes
+CA-560759L_11.JPG,new_no_rust,new_no_rust,0.4217,Yes
+assd.jpg,new_no_rust,new_no_rust,0.4330,Yes
+002_cql5orz2.p0y.jpg,new_rust,new_rust,0.6026,Yes
+002_q40jac40.sd4.jpg,new_rust,new_no_rust,0.4229,No
+004_i1dmciub.oop.jpg,new_rust,new_no_rust,0.4488,No
+007_2pzsqkji.l3n.jpg,new_rust,new_rust,0.6866,Yes
+007_nup2ctfg.0zj.jpg,new_rust,new_rust,0.6722,Yes
+008_oiot10cn.acz.jpg,new_rust,new_rust,0.6302,Yes
+009_kzubx14e.h55.jpg,new_rust,new_rust,0.5036,Yes
+012_vau2k0co.2q3.jpg,new_rust,new_rust,0.5709,Yes
+030_2vsy3son.gmu.jpg,new_rust,new_rust,0.6402,Yes
+OR-07562A_7.JPG,new_rust,new_rust,0.5632,Yes
